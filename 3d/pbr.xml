@@ -8,6 +8,7 @@
         <name2>ahmed</name2>
 	<link1>http://www.google.com</link1>
 	<link2>https://kenztest12.blogspot.com/</link2>
+	<add>https://www.hotmail.com</add>
 
 </models>
 <models>
@@ -15,6 +16,7 @@
         <name2>mohamed</name2>
 	<link1>http://www.google.com</link1>
 	<link2>https://www.youtube.com/</link2>
+	<add>https://www.hotmail.com</add>
 
 </models>
 <models>
@@ -22,6 +24,7 @@
         <name2>hassan</name2>
 	<link1>http://www.google.com</link1>
 	<link2>https://www.yahoo.com/</link2>
+	<add>https://www.hotmail.com</add>
 
 </models>
 
@@ -30,6 +33,7 @@
         <name2>eltayeb</name2>
 	<link1>http://www.google.com</link1>
 	<link2>https://www.hotmail.com/</link2>
+	<add>https://www.hotmail.com</add>
 
 </models>
 
